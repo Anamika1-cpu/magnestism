@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "Playfair Display Regular";
+    src: url(./Ogg-www.dfonts.org);
+}
 *{
     margin: 0;
     padding: 0;
